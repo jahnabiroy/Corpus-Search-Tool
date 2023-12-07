@@ -7,13 +7,12 @@ This assignment involves creating a program that can process a given corpus in a
 ## Corpus Format
 
 The corpus should be provided in a structured format, an example of which is given below. How to convert a pdf or txt file to the below mentioned format will be soon added.
-
-**Example corpus format:**
+```
 ('1', 0, 0, 1, 0) VOL.1: 1884 30 NOVEMBER, 1896 1
 ('1', 0, 1, 2, 32) 1. A CONFESSION 1
 ('1', 0, 2, 3, 50) [1884] I wrote it on a slip of paper and handed it to him myself.
 ('1', 0, 2, 4, 116) In this note not only did I confess my guilt, but I asked adequate punishment for it, and closed with a request to him not to punish himself for my offence.
-
+```
 
 ## Complilation
 - Make sure you have an OpenAI ChatGPT token with sufficient balance.
