@@ -29,5 +29,5 @@ pip install openai
 openai migrate
 g++ -std=c++11 tester.cpp qna_tool.cpp node.cpp dict.cpp search.cpp -w
 ```
-- Terminal window will ask your query followed by your GPT Token
+- Terminal window will ask for your query followed by your GPT Token
 - Output will be displayed in the terminal window.
