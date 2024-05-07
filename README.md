@@ -31,3 +31,10 @@ g++ -std=c++11 tester.cpp qna_tool.cpp node.cpp dict.cpp search.cpp -w
 ```
 - Terminal window will ask for your query followed by your GPT Token
 - Output will be displayed in the terminal window.
+
+## Contributors 
+
+- [Jahnabi Roy](https://github.com/jahnabiroy)
+- [Abhinav Rajesh Shripad](https://github.com/33Arsenic75)
+- [Purushottam Sharma](https://github.com/spurjhattam2207)
+- [Sabhya Khurana]()
